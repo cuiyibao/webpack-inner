@@ -1,0 +1,19 @@
+{
+  "name": "webpack0918",
+  "version": "1.0.0",
+  "description": "webpack+module",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.7",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bao",
+  "license": "ISC"
+}
